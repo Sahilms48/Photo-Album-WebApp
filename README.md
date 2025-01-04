@@ -23,10 +23,6 @@ Welcome to the Smart Photo Album project! This cutting-edge web application leve
 - **Continuous Deployment**: AWS CodePipeline
 - **Infrastructure as Code**: AWS CloudFormation
 
-## 🏗️ Architecture
-
-Architecture Diagram
-
 ## 🔧 Setup and Deployment
 
 1. Clone the repository
