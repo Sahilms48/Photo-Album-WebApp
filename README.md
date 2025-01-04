@@ -39,17 +39,8 @@ Welcome to the Smart Photo Album project! This cutting-edge web application leve
 5. Lex bot interprets the query and triggers the search Lambda
 6. Search results are fetched from Elasticsearch and displayed
 
-## 👨‍💻 Development
-
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## 🙏 Acknowledgments
-
-- AWS Documentation
-- Columbia University Cloud Computing and Big Data Systems course
-
----
-
-**Note**: This project was developed as part of the Cloud Computing course at New York University, Fall 2024.
+This project was developed as part of the Cloud Computing course at New York University, Fall 2024.
